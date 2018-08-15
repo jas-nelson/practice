@@ -9,8 +9,8 @@ class LargestRectangle_TestFile:
 
     def __init__(self):
         self.buildings = RandomRangedValueList.RandomRangedValueList(floor=1,
-                                                                     ceiling=100000,
-                                                                     numOfElem=randint(1, 1000000))
+                                                                     ceiling=1000000,
+                                                                     numOfElem=randint(1, 100000))
 
 
     def GenerateFile(self, fileName):
@@ -20,7 +20,7 @@ class LargestRectangle_TestFile:
 
         with open(savePath, "w") as file:
 
-            file.write(str(self.buildings.numOfElements) + "\n")
+            file.write(str(self.buildings.numOfElements) + '\n')
             file.write(" ".join(str(x) for x in self.buildings.rangedList))
 
             file.close()

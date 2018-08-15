@@ -14,21 +14,11 @@
       <file leaf-file-name="LargestRectangle.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Stacks_and_Queues/LargestRectangle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="22" column="62" lean-forward="false" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
+            <state relative-caret-position="189">
+              <caret line="12" column="94" lean-forward="false" selection-start-line="12" selection-start-column="94" selection-end-line="12" selection-end-column="94" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tale_of_two_stacks_testFile.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Stacks_and_Queues/tale_of_two_stacks_testFile.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -57,6 +47,7 @@
         <option value="$PROJECT_DIR$/Interfaces/RandomRangedValueList.py" />
         <option value="$PROJECT_DIR$/Stacks_and_Queues/A_Tale_Of_Two_Stacks.py" />
         <option value="$PROJECT_DIR$/Stacks_and_Queues/LargestRectangle.py" />
+        <option value="$PROJECT_DIR$/Stacks_and_Queues/largestRectangle_testFile.txt" />
       </list>
     </option>
   </component>
@@ -377,14 +368,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Interfaces/RandomRangedValueList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Interfaces/CommandElement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -422,15 +405,23 @@
     <entry file="file://$PROJECT_DIR$/Stacks_and_Queues/largestRectangle_testFile.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interfaces/RandomRangedValueList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Stacks_and_Queues/LargestRectangle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="22" column="62" lean-forward="false" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
+        <state relative-caret-position="189">
+          <caret line="12" column="94" lean-forward="false" selection-start-line="12" selection-start-column="94" selection-end-line="12" selection-end-column="94" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
