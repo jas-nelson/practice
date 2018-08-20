@@ -246,7 +246,7 @@ class Solution
 
     static void Main(string[] args)
     {
-        string path = @"C:\Users\jason.nelson\Documents\projects\hackerRank\hackerRankTestFileGenerator\Stacks_and_Queues\poisonousPlants_testFile_simple.txt";
+        string path = @"C:\Users\jason.nelson\Documents\projects\hackerRank\hackerRankTestFileGenerator\Stacks_and_Queues\poisonousPlants_testFile_tesCase15.txt";
 
         using (StreamReader sr = new StreamReader(path))
         {
@@ -261,18 +261,18 @@ class Solution
 
 
 
-    //    static void Main(string[] args)
-    //    {
-    //        TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+    //static void Main(string[] args)
+    //{
+    //    TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 
-    //        int n = Convert.ToInt32(Console.ReadLine());
+    //    int n = Convert.ToInt32(Console.ReadLine());
 
-    //        int[] p = Array.ConvertAll(Console.ReadLine().Split(' '), pTemp => Convert.ToInt32(pTemp));
-    //        int result = poisonousPlants(p);
+    //    int[] p = Array.ConvertAll(Console.ReadLine().Split(' '), pTemp => Convert.ToInt32(pTemp));
+    //    int result = poisonousPlants(p);
 
-    //        textWriter.WriteLine(result);
+    //    textWriter.WriteLine(result);
 
-    //        textWriter.Flush();
-    //        textWriter.Close();
-    //    }
+    //    textWriter.Flush();
+    //    textWriter.Close();
+    //}
 }

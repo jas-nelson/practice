@@ -26,18 +26,38 @@
       <file leaf-file-name="poisonousPlants_testFile.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Stacks_and_Queues/poisonousPlants_testFile.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="75474">
               <caret line="1" column="533029" lean-forward="false" selection-start-line="1" selection-start-column="533029" selection-end-line="1" selection-end-column="533029" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="poisonousPlants_testFile_simple.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="poisonoutPlants_testFile_testCase19.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Stacks_and_Queues/poisonoutPlants_testFile_testCase19.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="poisonousPlants_testFile_simple.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Stacks_and_Queues/poisonousPlants_testFile_simple.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="21">
               <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="poisonousPlants_testFile_tesCase15.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stacks_and_Queues/poisonousPlants_testFile_tesCase15.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,6 +90,8 @@
         <option value="$PROJECT_DIR$/Stacks_and_Queues/LargestRectangle.py" />
         <option value="$PROJECT_DIR$/Stacks_and_Queues/PoisonousPlants.py" />
         <option value="$PROJECT_DIR$/Stacks_and_Queues/poisonousPlants_testFile_simple.txt" />
+        <option value="$PROJECT_DIR$/Stacks_and_Queues/poisonousPlants_testFile_tesCase15.txt" />
+        <option value="$PROJECT_DIR$/Stacks_and_Queues/poisonoutPlants_testFile_testCase19.txt" />
       </list>
     </option>
   </component>
@@ -479,18 +501,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Stacks_and_Queues/poisonousPlants_testFile_simple.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stacks_and_Queues/poisonousPlants_testFile_tesCase15.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Stacks_and_Queues/poisonousPlants_testFile.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="75474">
           <caret line="1" column="533029" lean-forward="false" selection-start-line="1" selection-start-column="533029" selection-end-line="1" selection-end-column="533029" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Stacks_and_Queues/poisonousPlants_testFile_simple.txt">
+    <entry file="file://$PROJECT_DIR$/Stacks_and_Queues/poisonoutPlants_testFile_testCase19.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
