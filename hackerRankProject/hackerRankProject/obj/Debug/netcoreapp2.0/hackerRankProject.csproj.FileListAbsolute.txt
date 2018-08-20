@@ -1,0 +1,11 @@
+c:\users\jason.nelson\source\repos\hackerRankProject\hackerRankProject\bin\Debug\netcoreapp2.0\hackerRankProject.deps.json
+c:\users\jason.nelson\source\repos\hackerRankProject\hackerRankProject\bin\Debug\netcoreapp2.0\hackerRankProject.runtimeconfig.json
+c:\users\jason.nelson\source\repos\hackerRankProject\hackerRankProject\bin\Debug\netcoreapp2.0\hackerRankProject.runtimeconfig.dev.json
+c:\users\jason.nelson\source\repos\hackerRankProject\hackerRankProject\bin\Debug\netcoreapp2.0\hackerRankProject.dll
+c:\users\jason.nelson\source\repos\hackerRankProject\hackerRankProject\bin\Debug\netcoreapp2.0\hackerRankProject.pdb
+c:\users\jason.nelson\source\repos\hackerRankProject\hackerRankProject\obj\Debug\netcoreapp2.0\hackerRankProject.csprojAssemblyReference.cache
+c:\users\jason.nelson\source\repos\hackerRankProject\hackerRankProject\obj\Debug\netcoreapp2.0\hackerRankProject.csproj.CoreCompileInputs.cache
+c:\users\jason.nelson\source\repos\hackerRankProject\hackerRankProject\obj\Debug\netcoreapp2.0\hackerRankProject.AssemblyInfoInputs.cache
+c:\users\jason.nelson\source\repos\hackerRankProject\hackerRankProject\obj\Debug\netcoreapp2.0\hackerRankProject.AssemblyInfo.cs
+c:\users\jason.nelson\source\repos\hackerRankProject\hackerRankProject\obj\Debug\netcoreapp2.0\hackerRankProject.dll
+c:\users\jason.nelson\source\repos\hackerRankProject\hackerRankProject\obj\Debug\netcoreapp2.0\hackerRankProject.pdb
