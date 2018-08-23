@@ -1,0 +1,11 @@
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\FibonacciNumbers\FibonacciNumbers\bin\Debug\netcoreapp2.0\FibonacciNumbers.deps.json
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\FibonacciNumbers\FibonacciNumbers\bin\Debug\netcoreapp2.0\FibonacciNumbers.runtimeconfig.json
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\FibonacciNumbers\FibonacciNumbers\bin\Debug\netcoreapp2.0\FibonacciNumbers.runtimeconfig.dev.json
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\FibonacciNumbers\FibonacciNumbers\bin\Debug\netcoreapp2.0\FibonacciNumbers.dll
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\FibonacciNumbers\FibonacciNumbers\bin\Debug\netcoreapp2.0\FibonacciNumbers.pdb
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\FibonacciNumbers\FibonacciNumbers\obj\Debug\netcoreapp2.0\FibonacciNumbers.csprojAssemblyReference.cache
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\FibonacciNumbers\FibonacciNumbers\obj\Debug\netcoreapp2.0\FibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\FibonacciNumbers\FibonacciNumbers\obj\Debug\netcoreapp2.0\FibonacciNumbers.AssemblyInfoInputs.cache
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\FibonacciNumbers\FibonacciNumbers\obj\Debug\netcoreapp2.0\FibonacciNumbers.AssemblyInfo.cs
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\FibonacciNumbers\FibonacciNumbers\obj\Debug\netcoreapp2.0\FibonacciNumbers.dll
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\FibonacciNumbers\FibonacciNumbers\obj\Debug\netcoreapp2.0\FibonacciNumbers.pdb

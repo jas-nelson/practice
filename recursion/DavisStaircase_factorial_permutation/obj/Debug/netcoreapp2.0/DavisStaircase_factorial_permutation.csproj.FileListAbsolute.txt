@@ -1,0 +1,11 @@
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\DavisStaircase_factorial_permutation\obj\Debug\netcoreapp2.0\DavisStaircase_factorial_permutation.csprojAssemblyReference.cache
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\DavisStaircase_factorial_permutation\obj\Debug\netcoreapp2.0\DavisStaircase_factorial_permutation.csproj.CoreCompileInputs.cache
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\DavisStaircase_factorial_permutation\obj\Debug\netcoreapp2.0\DavisStaircase_factorial_permutation.AssemblyInfoInputs.cache
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\DavisStaircase_factorial_permutation\obj\Debug\netcoreapp2.0\DavisStaircase_factorial_permutation.AssemblyInfo.cs
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\DavisStaircase_factorial_permutation\bin\Debug\netcoreapp2.0\DavisStaircase_factorial_permutation.deps.json
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\DavisStaircase_factorial_permutation\bin\Debug\netcoreapp2.0\DavisStaircase_factorial_permutation.runtimeconfig.json
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\DavisStaircase_factorial_permutation\bin\Debug\netcoreapp2.0\DavisStaircase_factorial_permutation.runtimeconfig.dev.json
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\DavisStaircase_factorial_permutation\bin\Debug\netcoreapp2.0\DavisStaircase_factorial_permutation.dll
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\DavisStaircase_factorial_permutation\bin\Debug\netcoreapp2.0\DavisStaircase_factorial_permutation.pdb
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\DavisStaircase_factorial_permutation\obj\Debug\netcoreapp2.0\DavisStaircase_factorial_permutation.dll
+C:\Users\jason.nelson\Documents\projects\hackerRank\recursion\DavisStaircase_factorial_permutation\obj\Debug\netcoreapp2.0\DavisStaircase_factorial_permutation.pdb
